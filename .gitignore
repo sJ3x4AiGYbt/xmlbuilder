@@ -1,0 +1,9 @@
+xmlbuilder
+*.o
+*.out
+
+output.sql
+*.db
+tests/tmp/
+
+.DS_Store

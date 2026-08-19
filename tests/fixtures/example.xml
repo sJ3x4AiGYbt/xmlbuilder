@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book title="The art of war" author="Sun Tzu">
+        <review note="18"/>
+    </book>
+    <book title="1984" author="George Orwell">
+        <review note="16"/>
+    </book>
+</library>

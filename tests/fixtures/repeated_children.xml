@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book title="Dune" author="Frank Herbert">
+        <review note="15"/>
+        <review note="12"/>
+    </book>
+</library>
